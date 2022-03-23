@@ -1,1 +1,1 @@
-# SA-MP Discord Sokaktan Sesler Discord Log
+# SA-MP Sokaktan Sesler Discord Log
